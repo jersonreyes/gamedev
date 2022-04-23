@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2022-04-23T16:17:19.340+08:00
+  initializedAtString: 2022-04-23T16:12:20.982+08:00
+  log:
+  - commitID: 6d986fe1901edcc120fee8b9dbd86aea7fc64b6c
+    mergeA: 
+    mergeB: 
+    authorName: Jerson Reyes
+    authorEmail: jerson.reyes.a@bulsu.edu.ph
+    commitEmail: jerson.reyes.a@bulsu.edu.ph
+    commitName: Jerson Reyes
+    summary: Initial commit
+    description: 
+    timeString: 2022-04-23T16:00:40.000+08:00
+    commitTimeString: 2022-04-23T16:00:40.000+08:00
+    changes:
+    - path: .gitattributes
+      fullPath: /Users/jersonreyes/Documents/Unity/New Unity Project/.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: .gitignore
+      fullPath: /Users/jersonreyes/Documents/Unity/New Unity Project/.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+    - path: Assets/.gitignore
+      fullPath: /Users/jersonreyes/Documents/Unity/New Unity Project/Assets/.gitignore
+      projectPath: Assets/.gitignore
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
